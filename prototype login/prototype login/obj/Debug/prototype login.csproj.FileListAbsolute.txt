@@ -1,0 +1,13 @@
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\bin\Debug\prototype login.exe.config
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\bin\Debug\prototype login.exe
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\bin\Debug\prototype login.pdb
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype login.csprojResolveAssemblyReference.cache
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype_login.Form1.resources
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype_login.Properties.Resources.resources
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype login.csproj.GenerateResource.Cache
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype login.csproj.CoreCompileInputs.cache
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype login.exe
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype login.pdb
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\obj\Debug\prototype_login.Form2.resources
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\bin\Debug\MySql.Data.dll
+\\pfa.education\utccstudentusers$\15u-fcampbell\Documents\COMP\project\prototype login\prototype login\bin\Debug\MySql.Data.xml
